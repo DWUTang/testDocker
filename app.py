@@ -1,4 +1,4 @@
-# Author: Doug Wo
+# Author: Douglas Wo
 # #############################
 
 from flask import Flask
